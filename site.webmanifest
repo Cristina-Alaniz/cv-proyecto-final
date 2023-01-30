@@ -1,0 +1,19 @@
+{
+  "name": "Currículum - Alaniz, Miriam Cristina",
+  "short_name": "Alaniz CV",
+  "icons": [
+    {
+      "src": "/portada.jpeg",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "//portada.jpeg",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "display": "standalone"
+}
